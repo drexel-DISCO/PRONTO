@@ -24,12 +24,12 @@ If you find this code useful in your research, please cite our paper:
 
 S. Matinizadeh and A. Das. "An Open-Source and Extensible Framework for Fast Prototyping and Benchmarking of Spiking Neural Network Hardware" International Conference on Field-Programmable Logic and Applications (FPL), 2024
 
-@inproceedings{pronto, 
-title={An Open-Source and Extensible Framework for Fast Prototyping and Benchmarking of Spiking Neural Network Hardware}, 
-author={Matinizadeh, S. and Das, A.}, 
-booktitle ={IEEE International Conference on Field-Programmable Logic and Applications (FPL)}, 
-year={2024}, 
-publisher={IEEE} 
+@inproceedings{pronto,  
+title={An Open-Source and Extensible Framework for Fast Prototyping and Benchmarking of Spiking Neural Network Hardware},  
+author={Matinizadeh, S. and Das, A.},  
+booktitle ={IEEE International Conference on Field-Programmable Logic and Applications (FPL)},  
+year={2024},  
+publisher={IEEE}   
 } 
 
 ## Contact
