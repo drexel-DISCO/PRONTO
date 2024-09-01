@@ -22,14 +22,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 // Author   	: Anup Das
 // Email    	: anup.das@drexel.edu
-// Date     	: Feb 10, 2024
+// Date     	: Aug 31, 2024
 // File     	: tb_quantisenc_parameters.vh
 // Desc     	: This is the parameter file for the quantisenc module that is to be generated using a Python script.
 // 		  This file contains the install directory.
 // 		  A new directive swctrl is defined. 
 // 		  This directive is used by a python interpreter to change the parameters.
 // -----------------------------------------------------------------------------*/
-parameter string INSTALL_DIR 	= "C:/Users/ad3639/Dropbox/Drexel/Research/AutoFPGA/quantisenc",//base installation directory
+parameter string INSTALL_DIR 	= "<path-to-base-directory>",//base installation directory
 //neuron configuration
 parameter VTH = 17,	//swctrl
 parameter DECAY_RATE = 3,	//swctrl
